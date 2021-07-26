@@ -6,7 +6,9 @@
 <p align="center">Este repositório tem como objetivo de ter desafios concluídos da lista disponibilizada pela Origamid, Para executar os códigos basta clonar os arquivos Html e Javascript, abrir o arquivo HTML no browser e em seguida abrir o console.</p>
 <br><hr>
 <div>
-    Modulo 1: <strong>Javascript Iniciante -> Exercicios do 1 ao 11</strong>; Neste módulo, são desafios usando objetos, funções, Arrays, conhecendo métodos e propriedades, já que tudo é objeto na lingaugem Js, tambem alguns problemas dos tipos de variáveis, If/else, atribuição e ternário e um pouco de manipulação de Dom. 
+    Módulo 1: <strong>Javascript Iniciante -> Exercicios do 1 ao 11</strong>; Neste módulo, são desafios usando objetos, funções, Arrays, conhecendo métodos e propriedades, já que tudo é objeto na lingaugem Js, tambem alguns problemas dos tipos de variáveis, If/else, atribuição e ternário e um pouco de manipulação de Dom. 
+    <br><br>
+    Módulo 2: <strong>Manipulação dom Dom -> Exercicios do 1 ao 6;</strong> Neste módulo, são desafios realizando manipulação do Dom e alguns eventos, pois tem uma página com HTML e CSS, pois é nela que estão sendo pegos os elementos para serem manipulados e acionando interatividade na página.
 </div>
 
 ---
