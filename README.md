@@ -3,7 +3,7 @@
     <img src="images/icone-javascript.svg" width="200" height="100"> 
 <br>
 </h1>
-<p align="center">Este repositório tem como objetivo de ter desafios concluídos da lista disponibilizada pela Origamid, Para executar os códigos basta clonar os arquivos Html e Javascript, abrir o arquivo HTML no browser e em seguida abrir o console.</p>
+<p align="center">Este repositório tem como objetivo de ter desafios concluídos da lista disponibilizada pela Origamid, mas nada de algo como sequência de Fibonacci, mas sim desafios que provavelmente devo encontrar no mercado de trabalho. Para executar os códigos basta clonar os arquivos Html e Javascript, abrir o arquivo HTML no browser e em seguida abrir o console.</p>
 <br><hr>
 <div>
     Módulo 1: <strong>Javascript Iniciante -> Exercicios do 1 ao 11</strong>; Neste módulo, são desafios usando objetos, funções, Arrays, conhecendo métodos e propriedades, já que tudo é objeto na lingaugem Js, tambem alguns problemas dos tipos de variáveis, If/else, atribuição e ternário e um pouco de manipulação de Dom. 
