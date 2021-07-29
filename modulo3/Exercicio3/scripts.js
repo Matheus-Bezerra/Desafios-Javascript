@@ -2,7 +2,7 @@
 const name = 'Matheus'
 /*Resposta:
     1 - Lenght -> quantidade de caracteres; 
-    2 - charArt(1) -> a; 
+    2 - charArt(1) -> pega a letra conforme o indice passado(a); 
     3 - Replace('s', 'zinho') -> substituição; 
     4 - slice(0,3) -> Quero pegar as 3 primeiras letras!; 
     5- toLowerCase -> Letra minusculas!
