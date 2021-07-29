@@ -8,14 +8,16 @@
 <div>
     Módulo 1: <strong>Javascript Iniciante -> Exercicios do 1 ao 11</strong>; Neste módulo, são desafios usando objetos, funções, Arrays, conhecendo métodos e propriedades, já que tudo é objeto na lingaugem Js, tambem alguns problemas dos tipos de variáveis, If/else, atribuição e ternário e um pouco de manipulação de Dom. 
     <br><br>
-    Módulo 2: <strong>Manipulação dom Dom -> Exercicios do 1 ao 6;</strong> Neste módulo, são desafios realizando manipulação do Dom e alguns eventos, pois tem uma página com HTML e CSS, pois é nela que estão sendo pegos os elementos para serem manipulados e acionando interatividade na página.
+    Módulo 2: <strong>Manipulação dom Dom -> Exercicios do 1 ao 7;</strong> Neste módulo, são desafios realizando manipulação do Dom e alguns eventos, pois tem uma página com HTML e CSS, pois é nela que estão sendo pegos os elementos para serem manipulados e acionando interatividade na página, conforme o pedido do desafio.
+    <br><br>
+    Módulo 3: <strong>Objetos -> Exercicios do 1 ao 3;</strong> Neste módulo , são desafios para mostrar que tudo é objetos e com isso tem tipos de propriedades e métodos, junto com a função construtora, funcionalidades do protótipo, métodos e propriedades de todos os tipos de dados, por exemplo, slice, math, split, entre muito mais.
 </div>
 
 ---
 ## Tecnologias
 - Javascript Puro
 - HTML para abrir manipular o DOM e executar o Js no browser
-- CSS para estilização da página ou alguns elementos para manipular com Dom
+- CSS para estilização da página ou algumas propriedades para manipulação do Dom
 ---
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
