@@ -18,6 +18,7 @@ function initAnimationScroll() {
     
     window.addEventListener('scroll', animationScroll)
 }
+initAnimationScroll()
 
 
 
