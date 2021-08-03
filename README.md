@@ -10,7 +10,7 @@
     <br><br>
     Módulo 2: <strong>Manipulação dom Dom -> Exercicios do 1 ao 10;</strong> Neste módulo, são desafios realizando manipulação do Dom e alguns eventos, pois tem uma página com HTML e CSS, pois é nela que estão sendo pegos os elementos para serem manipulados e acionando interatividade na página, como por exemplo nos três ultimos desafios pedindo para ativar uma seção conforme o item clicado, Accordion List, animação ao rolar Scroll, entre outros no módulo.
     <br><br>
-    Módulo 3: <strong>Objetos -> Exercicios do 1 ao 7;</strong> Neste módulo, são desafios para mostrar que tudo é objeto. Pois então tem desafios de funções construtoras, funcionalidades do protótipo, métodos e propriedades de todos os tipos de dados, por exemplo, slice, splice, Math, split, entre muito mais.
+    Módulo 3: <strong>Objetos -> Exercicios do 1 ao 9;</strong> Neste módulo, são desafios para mostrar que tudo é objeto. Pois então tem desafios de funções construtoras, funcionalidades do protótipo, métodos e propriedades de todos os tipos de dados, por exemplo, slice, splice, Math, split, Bind, Freeze, defineProperties, entre outros!
 </div>
 
 ---
