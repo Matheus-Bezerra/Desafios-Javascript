@@ -32,12 +32,12 @@ bruno.walk()
 function Dom(selector) {
     const elements = document.querySelectorAll(selector)
     this.element = elements
-    this.activeClass = function(classe) {
+    this.activeClass = (classe) => {
         elements.forEach((element) => {
             element.classList.add(classe)
         })
     }
-    this.removeClass = function(classe) {
+    this.removeClass = (classe) => {
         elements.forEach((element) => {
             element.classList.remove(classe)
         })

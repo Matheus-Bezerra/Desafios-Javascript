@@ -3,7 +3,7 @@
 function People(name, lastname, age) {
     this.name = name
     this.lastname = lastname
-    this.age = 18
+    this.age = age
 }
 
 // Crie um método no protótipo que retorne
