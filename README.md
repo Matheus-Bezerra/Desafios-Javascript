@@ -50,7 +50,16 @@
 ### Módulo 3: Objetos
 <br>
 
-- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio1">O que é DOM</a>
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio1">Funções Construtoras</a>
+- Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio2">Prototype</a>
+- Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio3">Native, Host e User</a>
+- Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/exercicio4">String</a>
+- Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio5">Number e Math</a>
+- Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio6">Arrays</a>
+- Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio7">Arrays e Iteração</a>
+- Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio8">Funções</a>
+- Exercício Javascript 9 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio9">Objetos</a>
+
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
 <p>Ou entre em contato pelo Numero (11) 97661-1929</p>
