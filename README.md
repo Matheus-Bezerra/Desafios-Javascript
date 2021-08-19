@@ -30,7 +30,7 @@
 - Exercício Javascript 09 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo1/Exercicio9">Arrays e Loops</a>
 - Exercício Javascript 10 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo1/Exercicio10">Atribuição e Ternário</a>
 - Exercício Javascript 11 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo1/Exercicio11">Valores</a>
-<br></br>
+<hr>
 
 ### Módulo 2: Dom para Iniciantes
 <br>
@@ -45,7 +45,7 @@
 - Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo2/Exercicio8">Faça uma Navegação por Tabs</a>
 - Exercício Javascript 9 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo2/Exercicio9">Faça uma accordion List</a>
 - Exercício Javascript 10 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo2/Exercicio10">Faça uma animação ao Scroll</a>
-<br></br>
+<hr>
 
 ### Módulo 3: Objetos
 <br>
@@ -59,7 +59,14 @@
 - Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio7">Arrays e Iteração</a>
 - Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio8">Funções</a>
 - Exercício Javascript 9 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo3/Exercicio9">Objetos</a>
+<hr>
 
+### Módulo 4: Efeitos no DOM
+<br>
+
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio1">Dataset</a>
+- Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio2">Modules</a>
+<hr>
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
 <p>Ou entre em contato pelo Numero (11) 97661-1929</p>
