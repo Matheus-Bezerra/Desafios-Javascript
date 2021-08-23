@@ -64,9 +64,12 @@
 ### Módulo 4: Efeitos no DOM
 <br>
 
+- Desafios dos eventos do Dom adicionados aqui -> <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/projetoFinal">Projeto Final</a>
 - Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio1">Dataset</a>
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio2">Modules</a>
 - Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio3">Modal</a>
+- Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio4">Tooltip</a>
+- Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio5">Dropdown Menu</a>
 <hr>
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
