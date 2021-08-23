@@ -10,6 +10,6 @@ initScrollSuave();
 initAnimacaoScroll();
 initAccordion();
 initTabNav();
-initModal()
-initTooltip()
-initDropdownMenu()
+initModal();
+initTooltip();
+initDropdownMenu();
