@@ -71,6 +71,7 @@
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio4">Tooltip</a>
 - Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio5">Dropdown Menu</a>
 - Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio6">Event Bubble</a>
+- Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio7">Clickoutside</a>
 <hr>
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
