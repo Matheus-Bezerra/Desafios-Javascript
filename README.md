@@ -72,7 +72,10 @@
 - Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio5">Dropdown Menu</a>
 - Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio6">Event Bubble</a>
 - Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio7">Clickoutside</a>
-- Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio7">SetTimeOut e setTimeInterval</a>
+- Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio8">SetTimeOut e setTimeInterval</a>
+- Exercício Javascript 9 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio9">Menu Mobile</a>
+- Exercício Javascript 10 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio10">Anima Numeros</a>
+- Exercício Javascript 11 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio11">objeto Date()</a>
 <hr>
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
