@@ -17,7 +17,7 @@ export default function initAnimaNumeros() {
     
     }
     
-    //Aparecer somente quando der o Scroll
+    
     
     function handleMutation(mutation) {
         if(mutation[0].target.classList.contains('ativo')) {
