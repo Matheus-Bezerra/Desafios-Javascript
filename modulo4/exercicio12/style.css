@@ -1,0 +1,29 @@
+label {
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: .5rem;
+    margin-top: 1rem;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+input[type="text"],input[type="email"], textarea {
+    min-width: 100%;
+    box-sizing: border-box;
+    padding: .5rem;
+    border: 2px solid #000;
+    font-size: 1rem;
+    margin-bottom: .5rem;
+}
+textarea {
+    height: 150px;
+}
+.invalido {
+    background: tomato;
+    color: black;
+}
+span {
+    font-size: 1.7rem;
+}
