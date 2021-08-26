@@ -76,6 +76,8 @@
 - Exercício Javascript 9 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio9">Menu Mobile</a>
 - Exercício Javascript 10 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio10">Anima Numeros</a>
 - Exercício Javascript 11 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio11">objeto Date()</a>
+- Exercício Javascript 12 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio12">Manipulação no Formulário</a>
+- Exercício Javascript 13 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio13">botão Criado via manipulação e Local Storage</a>
 <hr>
 
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
