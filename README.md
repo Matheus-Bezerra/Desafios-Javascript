@@ -84,7 +84,7 @@
 ### Módulo 5: Javascript Assíncrono
 <br>
 
-- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/">Javascript assíncrono</a>
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio1/">Javascript assíncrono</a>
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio2/">Promises</a>
 <hr>
 <br>
