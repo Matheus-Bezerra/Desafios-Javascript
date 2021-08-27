@@ -80,5 +80,11 @@
 - Exercício Javascript 13 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/exercicio13">botão Criado via manipulação e Local Storage</a>
 <hr>
 
+
+### Módulo 5: Javascript Assíncrono
+<br>
+
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/">Javascript assíncrono</a>
+
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
 <p>Ou entre em contato pelo Numero (11) 97661-1929</p>
