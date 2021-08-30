@@ -86,7 +86,7 @@
 
 - Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio1/">Javascript assíncrono</a>
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio2/">Promises</a>
-- Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio3/">Fetchs com Apis</a>
+- Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio3/">Fetch com Apis</a>
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio4/">Json</a>
 <hr>
 <br>
