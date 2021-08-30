@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "aula": "Javascript",
+        "min": 30
+    },
+    {
+        "id": 2,
+        "aula": "Vue",
+        "min": 25
+    },
+    {
+        "id": 3,
+        "aula": "React Native",
+        "min": 40
+    }
+]
