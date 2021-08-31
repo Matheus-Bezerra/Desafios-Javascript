@@ -1,0 +1,18 @@
+[
+    {
+        "aula": "HTML",
+        "modulo": 1
+    },
+    {
+        "aula": "CSS",
+        "modulo": 2
+    },
+    {
+        "aula": "Javascript",
+        "modulo": 3
+    },
+    {
+        "aula": "React",
+        "modulo": 4
+    }
+]
