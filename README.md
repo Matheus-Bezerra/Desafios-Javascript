@@ -92,6 +92,7 @@
 - Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio5/">Api e HTTP</a>
 - Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio6/">Async e Await</a>
 - Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio7/">Animais Fetch - Json no Projeto Final</a>
+- Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio8/">Bitcoin Fetch - Json no Projeto Final</a>
 <hr>
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
