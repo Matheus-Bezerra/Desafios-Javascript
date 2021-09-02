@@ -84,12 +84,14 @@
 ### Módulo 5: Javascript Assíncrono
 <br>
 
+- Ultimos desafios realizados aqui no Projeto Final, arquivo Json -> <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo4/projetoFinal">Projeto Final</a>
 - Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio1/">Javascript assíncrono</a>
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio2/">Promises</a>
 - Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio3/">Fetch com Apis</a>
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio4/">Json</a>
 - Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio5/">Api e HTTP</a>
 - Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio6/">Async e Await</a>
+- Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio7/">Animais Fetch - Json no Projeto Final</a>
 <hr>
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
