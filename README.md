@@ -94,6 +94,13 @@
 - Exercício Javascript 7 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio7/">Animais Fetch - Json no Projeto Final</a>
 - Exercício Javascript 8 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo5/exercicio8/">Bitcoin Fetch - Api de bitcoin no Projeto Final(contato)</a>
 <hr>
+
+
+### Módulo 6: Classes
+<br>
+
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo6/exercicio1/">Classes</a>
+
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
 <p>Ou entre em contato pelo Numero (11) 97661-1929</p>
