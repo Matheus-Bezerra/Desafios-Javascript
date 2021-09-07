@@ -103,6 +103,13 @@
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo6/exercicio2/">Get e Set</a>
 - Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo6/exercicio3/">Extends</a>
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo6/exercicio4/">Countdown</a>
+<hr>
+
+
+### Módulo 7: Mais Javascript
+<br>
+
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio1/">...</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
