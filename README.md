@@ -113,6 +113,7 @@
 - Exercício Javascript 2 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio2/">Factory Function</a>
 - Exercício Javascript 3 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio3/">Closures e Debugging</a>
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio4/">Destructuring</a>
+- Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio5/">Rest e Spread</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
