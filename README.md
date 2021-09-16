@@ -105,7 +105,6 @@
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo6/exercicio4/">Countdown</a>
 <hr>
 
-
 ### Módulo 7: Mais Javascript
 <br>
 
@@ -115,6 +114,12 @@
 - Exercício Javascript 4 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio4/">Destructuring</a>
 - Exercício Javascript 5 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio5/">Rest e Spread</a>
 - Exercício Javascript 6 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio6/">Loops e Iterable</a>
+<hr>
+
+### Módulo 8: Regular Expression
+<br>
+
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo7/exercicio1/">Teste</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
