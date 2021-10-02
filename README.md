@@ -131,6 +131,7 @@
 <br>
 
 - Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo9/exercicio1/">Linhas de comando</a>
+- Exercício Javascript 1 - <a href="https://github.com/Matheus-Bezerra/Desafios-Javascript/tree/main/modulo9/exercicio2/">NPM</a>
 
 
 <br>
