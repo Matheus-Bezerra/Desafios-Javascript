@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript - NPM</title>
+</head>
+<body>
+    <h2>Instalar Pacotes:</h2>
+    <ul>
+        <li>npm install lodash -> instale no arquivo o lodash</li>
+        <li>npm install lodash eslint -g -> Instale o lodash globalmente</li>
+        <li>npm update lodash -> atualize a versão mais recente do lodash</li>
+        <li>npm uninstall lodash -> Desinstalar o Lodash</li>
+    </ul>
+    <h2>Package.Json</h2>
+    <ul>
+        <li>Package.Json -> Arquivo local com as configurações e dependências de pacotes NPM.</li>
+        <li>npm init -> Inicia uma nova configuração local do NPM</li>
+        <li>npm install -> Instala todas as dependêncais listadas no arquivo package.Json</li>
+    </ul>
+    <script src="node_modules/lodash/lodash.js"></script>
+    <script>
+        console.log(_.defaults({'a': 1}, {'a':3, 'b': 2}));
+    </script>
+</body>
+</html>
