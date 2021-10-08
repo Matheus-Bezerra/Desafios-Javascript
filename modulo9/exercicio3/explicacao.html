@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explicação do EsLint e do Webpack</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        li {
+            padding: 0;
+            list-style: square;
+        }
+    </style>
+</head>
+<body>
+    <h1>ESLINT</h1>
+    <h2>É para evitar problemas, pois define um padrão para o código. Serve para padroniza e para manter a consistência entre diferentes códigos js</h2>
+    <h3>Como instalar o Eslint:</h3>
+    <ul>
+        <li>npm install eslint -g -> instalar o eslint globalmente</li>
+        <li>npm init -> Inicia o repositório npm no local</li>
+        <li>eslint --init -> use popular > airbnb > (n) Enter > Json > (y) Enter ==> Para inicialização do Eslint no repositório</li>
+    </ul>
+    <br>
+
+    <h1>WEBPACK</h1>
+    <h2>É um bundler que agrupa / processa diversos arquivos e otimiza os mesmos. Porem é bastante configurável</h2>
+    <h3>Como usar usar o Webpack</h3>
+    <ul>
+        <li>npm install --save-dev webpack webpack-cli -> ter o package.json antes</li>
+        <li>npx -> é a mesma coisa que utilizar node_modules/.bin/webpack, ele facilita para chamarmos a cli´s</li>
+        <li>npx webpack .js/script.js -o main.js -> ele vai pegar o arquivo scripts.js e transformar em um arquivo muito menor chamado de main.js, se colocar o --watch no final, ele vai automaticamente compilar na hora para o arquivo main.js</li>
+        <li>No package Json, mude o test para o nome que quiser e coloque em seguida o comando de execução com watch no final, para não precisar de chamar toda hora. EX: Pois então basta fazer npm run (Nome que escolheu) e pronto ele vai copilando automaticamente para o arquivo main.js quando for alterado o arquivo script.js neste caso!</li>
+    </ul>
+
+    <h1>Babel</h1>
+    <h2>é um compilador que transforma código novo em código antigo. Por conta dos browser antigos e da para sicrnonizar com eslint e com webpack para não ficar dando erro e compilar para o arquivo main.js com código antigo para diferentes browsers suportarem!</h2>
+    <h3>Como usar o babel: </h3>
+    <ul>
+        <li>As tecnologias usadas no site, de uma olhada no site "i can use" para ver algumas das suas tecnologias usadas no código</li>
+        <li>Polyfill VS transpiler:
+            <li>
+                Polyfill => Cria métodos / funções com o nome das atuais, porem utilizando código antigo.
+            </li>
+            <li>
+                Transpiler => Transforma o código novo em antigo, tipo o const em var!
+            </li>
+        </li>
+    </ul>
+    <h3>Observações: Arquivos no git ignore ==> node_modules (pois é muita memória ocupada por este arquivo)</h3>
+</body>
+</html>
